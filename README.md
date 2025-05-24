@@ -2,6 +2,8 @@
 
 Projeto criado para servir como base de atividade de fixação no curso de Análise e desenvolvimento de sistema, disciplina Frameworks frontend - Faminas - 2025
 
+Feito Por: Luiz Felipe de Oliveira Mello
+
 ## Pré-requisitos
 
 Antes de começar, você precisa ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
